@@ -5,7 +5,7 @@
 <p align=center> <b><u> " MANOBAL" </b></u></p>
 
 ## What is Manobal ?
-###### Manobal is your happiness buddy helps the user to tackle anger, stress, anxiety, depression heartbreak. It's empathetic, helpful and will never judge. In times of lonliness the AR Bot helps you to build confidence, reduce self doubt and improve your self esteem in your personal space.
+###### Manobal is your happiness buddy helps the user to tackle anger, stress, anxiety, depression, and heartbreak. It's empathetic, helpful and will never judge you. In times of loneliness the AR Bot helps you to build confidence and improve your self esteem in your personal space.
 ## Inspiration 
 ###### A healthy mind is as necessary as a healthy body. Especially during covid, where some people suffered, mental health becomes utmost important. This is the inspiration behind creating the app <b>Manobal</b>.
 
