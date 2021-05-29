@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_extralight.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_meditation.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\img_meditation.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_semibold.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sos.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\sos.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleeping_icon.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\sleeping_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heartbreak.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\heartbreak.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_medium.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_light.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_card.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\background_card.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleep_animation.gif.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\sleep_animation.gif"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_sen_extrabold.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\sen_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editname.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\editname.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_item.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleep_test.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\sleep_test.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exercise.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\exercise.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_song_meditation.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_song_meditation.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_sleep.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause_button.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\pause_button.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_semibolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\anim_back_to_screen.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\anim\\back_to_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_meditation.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_meditation.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vector_background.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\vector_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\anim_move_to_right.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\anim\\move_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_lightitalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alone.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\alone.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vector.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\vector.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_black.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_manobal.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\manobal.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_blackitalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_assistant.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\assistant.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_sheet_bg.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\bottom_sheet_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\raw_icon.svg.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\raw\\icon.svg"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_sen_bold.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\sen_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meditate.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\meditate.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_italic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_sen_regular.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\sen_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\anim_move_to_left.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\anim\\move_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_splash.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\background_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visualization.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\visualization.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stopwatch.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\stopwatch.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_thinitalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_button.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exam_stress.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\exam_stress.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_song_sleep.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_song_sleep.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sos.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anxiety.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\anxiety.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_button.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\login_button.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bolditalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\anim_move_away.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\anim\\move_away.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_extralightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_extrabold.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleep.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\sleep.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_thin.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lonely.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\lonely.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meditate_music.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\meditate_music.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_nickname_alert.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\nickname_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meditation_gif.gif.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\meditation_gif.gif"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dots.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sos_red.png.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\drawable\\sos_red.png"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\font\\montserrat_extrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\app\\src\\main\\res\\layout\\activity_start.xml"
+    }
+]

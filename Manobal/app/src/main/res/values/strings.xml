@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Manobal</string>
+    <string name="gender">Gender</string>
+    <string name="nickname">Nickname</string>
+    <string name="lets_go">Lets Go</string>
+    <string name="don_t_want_to_enter_the_details">Don\'t want to enter the details?</string>
+    <string name="skip">Skip</string>
+    <string name="hello">Hello</string>
+    <string name="visualization">Visualization</string>
+    <string name="exercise">Exercise</string>
+    <string name="song">Song</string>
+    <string name="sleep">Sleep</string>
+    <string name="long_15_mins">Long (15 mins)</string>
+    <string name="short_5_mins">Short(5 mins)</string>
+    <string name="relax">RELAX</string>
+    <string name="please_wait_while_we_load_the_resources">Please wait while we load the resources</string>
+    <string name="sos">SOS</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="hey_cheer_up">Hey, "\n"Cheer Up!</string>
+    <string name="change_your_nickname">Change Your Nickname</string>
+    <string name="change_sos_number">Change SOS Number</string>
+    <string name="enter_nickname">Enter nickname</string>
+    <string name="be_kind">Be Kind</string>
+    <string name="to_your_mind">To Your Mind</string>
+    <string name="game_view_content_description">Game view</string>
+
+
+    <string-array name="headings">
+        <item>Having exam fear?"\n"Try out the exam stress buster!</item>
+        <item>Having trouble with Sleep?"\n"Try out this sleeping exercise</item>
+        <item>Feeling panicked or anxious?"\n"Try out the anxiety exercise</item>
+        <item>Had a hectic day?"\n"Calm yourself by this meditation exercise</item>
+    </string-array>
+</resources>

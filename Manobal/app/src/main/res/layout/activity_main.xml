@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.88" />
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/guideline_main"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:fillViewport="true"
+        android:focusableInTouchMode="true"
+        app:layout_constraintTop_toTopOf="parent" >
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline_main2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.75" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.30" />
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.15" />
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.4" />
+
+            <ImageView
+                android:id="@+id/title"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:scaleType="fitXY"
+                android:scaleX="1.1"
+                android:scaleY="1.1"
+                android:src="@drawable/title"
+                app:layout_constraintBottom_toBottomOf="@+id/guideline1"
+                app:layout_constraintEnd_toEndOf="@id/guideline_main2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/sos_btn"
+                android:layout_width="96dp"
+                android:layout_height="50dp"
+                android:layout_marginEnd="10dp"
+                app:layout_constraintBottom_toBottomOf="@id/guideline3"
+                app:layout_constraintStart_toEndOf="@id/guideline_main2"
+                android:fontFamily="@font/sen_bold"
+                android:background="@drawable/sos"
+                />
+
+            <ImageButton
+                android:id="@+id/dots_btn"
+                android:layout_width="11dp"
+                android:layout_height="25dp"
+                android:layout_marginEnd="20dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@id/sos_btn"
+                android:src="@drawable/dots"
+                android:scaleType="fitXY"
+                android:background="#000"
+                />
+
+            <TextView
+                android:id="@+id/heyText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hey_cheer_up"
+                app:layout_constraintTop_toTopOf="@id/guideline3"
+                app:layout_constraintLeft_toLeftOf="@id/guideline4"
+                android:textSize="34sp"
+                android:padding="5dp"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:id="@+id/tvRandom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/sen_extrabold"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/guideline1" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvRandom"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="20dp"/>
+
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+    <com.google.android.material.bottomappbar.BottomAppBar
+        android:id="@+id/bottomAppBar2"
+        style="@style/Widget.MaterialComponents.BottomAppBar.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:backgroundTint="#F4F1F1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/guideline_main"
+        tools:ignore="BottomAppBar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="Talk to your Friend"
+                android:textSize="22sp"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/black"
+                android:gravity="center|end"
+                android:layout_weight="2"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/btnGo"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:padding="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/assistant" />
+        </LinearLayout>
+
+    </com.google.android.material.bottomappbar.BottomAppBar>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

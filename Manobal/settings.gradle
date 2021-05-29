@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "Underscore_"
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('C:\\Users\\shrey\\AndroidStudioProjects\\Underscore\\unityLibrary')
